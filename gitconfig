@@ -1,0 +1,7 @@
+[user]
+	name = torukawanabe
+	email = torukawanabe@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = auto
