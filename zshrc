@@ -9,12 +9,11 @@ export PATH=/usr/local/sbin:/usr/local/bin:$PATH
 export PYTHONPATH="/usr/local/lib/python2.7/site-packages:$PYTHONPATH"
 
 
-source ~/.pythonbrew/etc/bashrc
-
 #---------------------------------------------------------------------------
 # General
 #---------------------------------------------------------------------------
 export LANG=ja_JP.UTF-8
+export LC_ALL=en_US.UTF-8
 export EDITOR=vim
 export TERM=xterm-256color
 setopt nobeep
